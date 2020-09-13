@@ -12,4 +12,4 @@ Assets used:
 Email Address submission directs to freeCodeCamp email submit test page:
   - https://www.freecodecamp.com/email-submit
 
-Originally developed in April 2019.
+Originally developed in 2019 - https://codepen.io/cdavisdev/pen/VOPvmg
