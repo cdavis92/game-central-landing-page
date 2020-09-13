@@ -11,3 +11,5 @@ Assets used:
 
 Email Address submission directs to freeCodeCamp email submit test page:
   - https://www.freecodecamp.com/email-submit
+
+Originally developed in April 2019.
